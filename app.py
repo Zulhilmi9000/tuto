@@ -1,1 +1,1 @@
-print ("Hello CiCD") s
+print ("Hello CiCD")
